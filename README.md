@@ -1,4 +1,4 @@
-# NRSEL
+# Name
 The ensemble method NRSEL
 
 
